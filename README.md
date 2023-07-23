@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hola, mi nombre es Manuel Cisternas 👋
+### Estudiante de Ingeniería Civil Informática
+
+Soy violinista 🎻 desde el año 2007, actualmente me encuentro trabajando en la Universidad San Sebastián como jefe de fila de los segundos violines, estoy titulado en Administración de Empresas y en estos momentos estoy cursando segundo año de Ingeniería civil informática en la Universidad Católica de la Santísima Concepción.
 
 <!--
 **Maanuus/Maanuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
