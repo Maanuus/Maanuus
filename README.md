@@ -32,18 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Mis contribuciones
-![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-snake.svg)
-
----
-
 ## 📫 Contacto
 - 📍 Chile
 - ✉️ mcisternasa@ing.ucsc.cl
