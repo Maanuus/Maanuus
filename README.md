@@ -1,19 +1,51 @@
-# Hola, mi nombre es Manuel Cisternas 👋
-### Estudiante de Ingeniería Civil Informática
+# 👋 Hola, soy Manuel
 
-Soy violinista 🎻 desde el año 2007, actualmente me encuentro trabajando en la Universidad San Sebastián como jefe de fila de los segundos violines, estoy titulado en Administración de Empresas y en estos momentos estoy cursando cuarto año de Ingeniería civil informática en la Universidad Católica de la Santísima Concepción.
+💻 Desarrollador en formación desde Chile  
+🚀 Enfocado en desarrollo web Full Stack (**Laravel + React**)  
+🧠 Aprendiendo a construir aplicaciones reales desde cero hasta producción  
 
-<!--
-**Maanuus/Maanuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Lo que estoy aprendiendo ahora
+- ⚙️ Laravel (MVC, APIs, autenticación, bases de datos)
+- ⚛️ React (hooks, estado, componentes reutilizables)
+- 🟨 JavaScript moderno (ES6+)
+- 🗄️ MySQL / bases de datos relacionales
+- 🔧 Git y GitHub (flujo de trabajo real)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Stack actual
+### Frontend
+- React ⚛️
+- JavaScript (ES6+) 🟨
+- HTML5 / CSS3 🎨
+
+### Backend
+- Laravel ⚙️
+- PHP 🐘
+- MySQL 🗄️
+
+### Herramientas
+- Git & GitHub 🔧
+- VS Code 💻
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Mis contribuciones
+![snake gif](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-snake.svg)
+
+---
+
+## 📫 Contacto
+- 📍 Chile
+- ✉️ mcisternasa@ing.ucsc.cl
+- 💼 LinkedIn: https://linkedin.com/in/manuel-cisternas-agurto
+
