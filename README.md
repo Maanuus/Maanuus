@@ -9,8 +9,7 @@
 ## 🧠 Lo que estoy aprendiendo ahora
 - ⚙️ Laravel (MVC, APIs, autenticación, bases de datos)
 - ⚛️ React (hooks, estado, componentes reutilizables)
-- 🟨 JavaScript moderno (ES6+)
-- 🗄️ MySQL / bases de datos relacionales
+- 🗄️ PostgreSQL
 - 🔧 Git y GitHub (flujo de trabajo real)  
 
 ---
