@@ -33,6 +33,7 @@ Sistema web para que el Departamento de Ingeniería Informática gestione
 proyectos de título y prácticas de sus alumnos, con sincronización automática
 desde la base de datos de la universidad. Después de la entrega migré toda la
 interfaz a Tailwind CSS y terminé las funcionalidades que quedaron pendientes.
+→ [Repositorio](https://github.com/Maanuus/HabilProf)
 
 `Laravel 12` `PHP` `PostgreSQL` `Tailwind CSS`
 
