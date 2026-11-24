@@ -9,10 +9,10 @@ controles médicos en un solo lugar. En la universidad
 he trabajado en equipo en aplicaciones web para clientes reales, plataformas de
 datos, algoritmos de optimización y videojuegos.
 
-Además, toco violín hace más de 14 años y llevo 14 como músico de la
+Además, soy violinista y llevo 14 años como músico de la
 Orquesta de la Universidad San Sebastián en Concepción.
 
-📍 Concepción, Región del Biobío, Chile
+📍 Talcahuano, Región del Biobío, Chile
 
 ## 🚀 Proyectos destacados
 
