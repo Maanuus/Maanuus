@@ -27,11 +27,12 @@ y un catálogo de diseño web para iterar la interfaz.
 `TypeScript` `React Native` `Expo` `SQLite (cifrado)`
 
 ### HabilProf · Gestión de habilitaciones profesionales
-*Proyecto del ramo Taller de Ingeniería de Software I, en equipo.*
+*Proyecto del ramo Taller de Ingeniería de Software I, en equipo; después de la entrega lo continué por mi cuenta.*
 
 Sistema web para que el Departamento de Ingeniería Informática gestione
 proyectos de título y prácticas de sus alumnos, con sincronización automática
-desde la base de datos de la universidad.
+desde la base de datos de la universidad. Después de la entrega migré toda la
+interfaz a Tailwind CSS y terminé las funcionalidades que quedaron pendientes.
 
 `Laravel 12` `PHP` `PostgreSQL` `Tailwind CSS`
 
