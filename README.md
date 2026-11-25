@@ -60,10 +60,12 @@ Banco Mundial, segmentación, pronóstico, alerta temprana y tablero interactivo
 *Proyecto del ramo Taller de Ingeniería de Software II junto a AVA Montajes Industriales, en equipo. El código es propiedad de la empresa.*
 
 Sistema de gestión de contactos y licitaciones para una empresa real, con un
-microservicio de IA que estima la probabilidad de adjudicación de cada licitación
-y un asistente de voz.
+microservicio de IA que estima la probabilidad de adjudicación de cada licitación,
+un asistente de voz y diseño responsive. Mi parte: la documentación técnica y
+funcional (requisitos y manuales) y desarrollo frontend.
+→ [Ver proyecto](https://github.com/Maanuus/ava-crm-licitaciones)
 
-`Laravel 13` `React 19` `TypeScript` `FastAPI` `scikit-learn` `PostgreSQL` `Docker`
+`Laravel 13` `React 19` `TypeScript` `FastAPI` `scikit-learn` `PostgreSQL` `Scrum`
 
 ### Videojuegos en Unity
 *Proyectos del ramo Desarrollo de Videojuegos, en equipo.*
