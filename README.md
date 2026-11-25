@@ -68,9 +68,13 @@ funcional (requisitos y manuales) y desarrollo frontend.
 `Laravel 13` `React 19` `TypeScript` `FastAPI` `scikit-learn` `PostgreSQL` `Scrum`
 
 ### Videojuegos en Unity
-*Proyectos del ramo Desarrollo de Videojuegos, en equipo.*
+*Proyectos del ramo Desarrollo de Videojuegos, en dupla con Luis Felipe Núñez.*
 
-**Hollow Devotion** y **El Tesoro de Barba Negra**, desarrollados en Unity.
+Tres juegos: **Hollow Devotion**, un survival horror en tercera persona en una
+comisaría tomada por infectados; **El Tesoro de Barba Negra**, plataformas 3D con
+un pirata en busca de tesoros; y **Galaga3D**, un shooter espacial arcade con
+cámara cenital.
+→ [Ver los juegos](https://github.com/Maanuus/videojuegos-unity)
 
 `C#` `Unity`
 
